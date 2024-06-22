@@ -31,8 +31,8 @@ The file(s) in this repository are made available under the CC-BY-NC-SA 4.0 lice
 
 This license requires that reusers give credit to the creator (‘me’). It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
 
-- ![](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg)**BY:** Credit must be given to me, the creator.
-- ![](https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg)**NC:** Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
-- ![](https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg)**SA:** Adaptations must be shared under the same terms.
+- **BY:** Credit must be given to me, the creator.
+- **NC:** Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
+- **SA:** Adaptations must be shared under the same terms.
 
 See the full license deed [here](https://github.com/AlHH/arab_media_buzz_cop26/raw/main/LICENSE.md).
